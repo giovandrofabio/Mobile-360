@@ -1,0 +1,45 @@
+unit UnitLogin;
+
+interface
+
+uses
+  System.SysUtils, System.Types, System.UITypes, System.Classes, System.Variants,
+  FMX.Types, FMX.Controls, FMX.Forms, FMX.Graphics, FMX.Dialogs, FMX.StdCtrls,
+  FMX.Edit, FMX.Objects, FMX.Layouts, FMX.Controls.Presentation, FMX.TabControl;
+
+type
+  TFrmLogin = class(TForm)
+    TabControl: TTabControl;
+    TabLogin: TTabItem;
+    TabConta: TTabItem;
+    StyleBook1: TStyleBook;
+    Image1: TImage;
+    lbl_criar: TLabel;
+    Layout1: TLayout;
+    Image2: TImage;
+    Rectangle1: TRectangle;
+    edt_email: TEdit;
+    Rectangle2: TRectangle;
+    edt_senha: TEdit;
+    btn_nova_conta: TSpeedButton;
+    procedure FormCreate(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  FrmLogin: TFrmLogin;
+
+implementation
+
+{$R *.fmx}
+
+procedure TFrmLogin.FormCreate(Sender: TObject);
+begin
+  TabControl.TabPosition := TTabPosition.None;
+
+end;
+
+end.

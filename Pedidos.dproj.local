@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/30 10:34:16.000.211,=C:\Users\Giovandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/30 10:35:45.000.426,C:\Users\Giovandro\Documents\Embarcadero\Studio\Projects\Mobile 360\UnitInicial.pas=C:\Users\Giovandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/30 10:35:45.000.426,C:\Users\Giovandro\Documents\Embarcadero\Studio\Projects\Mobile 360\UnitInicial.fmx=C:\Users\Giovandro\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2021/03/30 10:35:56.000.754,C:\Users\Giovandro\Documents\Embarcadero\Studio\Projects\Mobile 360\Pedidos.dproj=C:\Users\Giovandro\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/04/02 11:53:37.000.068,=C:\Users\Giovandro\Documents\Embarcadero\Studio\Projects\Mobile 360\Unit1.pas</Transaction>
+    <Transaction>2021/04/02 11:54:46.000.371,C:\Users\Giovandro\Documents\Embarcadero\Studio\Projects\Mobile 360\Unit1.fmx=C:\Users\Giovandro\Documents\Embarcadero\Studio\Projects\Mobile 360\UnitLogin.fmx</Transaction>
+    <Transaction>2021/04/02 11:54:46.000.371,C:\Users\Giovandro\Documents\Embarcadero\Studio\Projects\Mobile 360\Unit1.pas=C:\Users\Giovandro\Documents\Embarcadero\Studio\Projects\Mobile 360\UnitLogin.pas</Transaction>
+    <Transaction>2021/04/02 18:46:55.000.455,=C:\Users\Giovandro\Documents\Embarcadero\Studio\Projects\Mobile 360\Unit1.pas</Transaction>
+    <Transaction>2021/04/02 18:52:09.000.403,C:\Users\Giovandro\Documents\Embarcadero\Studio\Projects\Mobile 360\UnitPrincipal.pas=C:\Users\Giovandro\Documents\Embarcadero\Studio\Projects\Mobile 360\Unit1.pas</Transaction>
+    <Transaction>2021/04/02 18:52:09.000.403,C:\Users\Giovandro\Documents\Embarcadero\Studio\Projects\Mobile 360\UnitPrincipal.fmx=C:\Users\Giovandro\Documents\Embarcadero\Studio\Projects\Mobile 360\Unit1.fmx</Transaction>
+    <Transaction>2021/04/03 13:19:01.000.715,=C:\Users\Giovandro\Documents\Embarcadero\Studio\Projects\Mobile 360\Unit1.pas</Transaction>
+    <Transaction>2021/04/03 13:19:56.000.113,C:\Users\Giovandro\Documents\Embarcadero\Studio\Projects\Mobile 360\UnitDM.dfm=C:\Users\Giovandro\Documents\Embarcadero\Studio\Projects\Mobile 360\Unit1.dfm</Transaction>
+    <Transaction>2021/04/03 13:19:56.000.113,C:\Users\Giovandro\Documents\Embarcadero\Studio\Projects\Mobile 360\UnitDM.pas=C:\Users\Giovandro\Documents\Embarcadero\Studio\Projects\Mobile 360\Unit1.pas</Transaction>
+    <Transaction>2021/04/07 22:11:29.000.015,=C:\Users\Giovandro\Documents\Embarcadero\Studio\Projects\Mobile 360\Unit1.pas</Transaction>
+    <Transaction>2021/04/07 22:12:07.000.447,C:\Users\Giovandro\Documents\Embarcadero\Studio\Projects\Mobile 360\Unit1.fmx=C:\Users\Giovandro\Documents\Embarcadero\Studio\Projects\Mobile 360\UnitProduto.fmx</Transaction>
+    <Transaction>2021/04/07 22:12:07.000.447,C:\Users\Giovandro\Documents\Embarcadero\Studio\Projects\Mobile 360\Unit1.pas=C:\Users\Giovandro\Documents\Embarcadero\Studio\Projects\Mobile 360\UnitProduto.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="Celular" Android64="Celular"/>
+	</ActiveMobileDevice>
+</BorlandProject>

@@ -1,0 +1,18 @@
+object dm: Tdm
+  OldCreateOrder = False
+  OnCreate = DataModuleCreate
+  Height = 294
+  Width = 355
+  object conn: TFDConnection
+    Params.Strings = (
+      
+        'Database=C:\Users\Giovandro\Documents\Embarcadero\Studio\Project' +
+        's\Mobile 360\DB\pedidos.db'
+      'OpenMode=ReadWrite'
+      'LockingMode=Normal'
+      'DriverID=SQLite')
+    LoginPrompt = False
+    Left = 144
+    Top = 88
+  end
+end
